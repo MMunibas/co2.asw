@@ -13,4 +13,7 @@ TODO: Description of the files.
 
 **Running the executable**
 
+Compilation of the program: gfortran RKHS.f90  pesCO2.f90  test.f90
+
+
 Before running the executable make sure that the asymp.coeff, .csv and/or .kernel files for that PES present in the current directory (or change the file path in the fortran program).

@@ -3,7 +3,7 @@ CO2-CCSD(T)-F12 PES
 
 Potential energy surfaces for the ground state of CO2:
 
-TODO: add details on how the scan was performed.
+The grid used for scan is in Jacobi coordinates where r= distance between the diatomic(CO_A)[0.8, 2.1] Angstrom, R= distance between center of mass of diatomic and atom(O_B)[0.9, 5.9] Angstrom and theta= angle between R and r [0, 180] degree. 
 
 TODO: Description of the files. 
 

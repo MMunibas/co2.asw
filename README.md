@@ -5,8 +5,6 @@ Potential energy surfaces for the ground state of CO2:
 
 The grid used for scan is in Jacobi coordinates where r= distance between the diatomic(CO_A)[0.8, 2.1] Angstrom, R= distance between center of mass of diatomic and atom(O_B)[0.9, 5.9] Angstrom and theta= angle between R and r [0, 180] degree. 
 
-TODO: Description of the files. 
-
 
 **Requirements**
 (1) RKHS toolkit : Download from https://github.com/MeuwlyGroup/RKHS
